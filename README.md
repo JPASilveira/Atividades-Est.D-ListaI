@@ -1,1 +1,1 @@
-Exercícios da primeira lista da disciplina de estruturas de dados
+Exercícios da primeira lista, disciplina de estruturas de dados
