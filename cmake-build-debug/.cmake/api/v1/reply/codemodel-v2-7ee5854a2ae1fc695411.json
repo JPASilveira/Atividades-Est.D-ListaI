@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "br_com_silvera_listai",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "exerciseI::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exerciseI-Debug-a61fa6fd1c61fa83d90c.json",
+					"name" : "exerciseI",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exerciseII::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exerciseII-Debug-8c502de640bdaaa4d73b.json",
+					"name" : "exerciseII",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exerciseIII::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exerciseIII-Debug-2840d267717b578a1fcf.json",
+					"name" : "exerciseIII",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exerciseIV::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exerciseIV-Debug-80f7a7681ef71cb28221.json",
+					"name" : "exerciseIV",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exerciseV::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exerciseV-Debug-8b7248145d652a95c03d.json",
+					"name" : "exerciseV",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jpasilveira/CLionProjects/br.com.silvera.listai/cmake-build-debug",
+		"source" : "/home/jpasilveira/CLionProjects/br.com.silvera.listai"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
